@@ -87,12 +87,14 @@
 					</div>
 					<div class="col-sm-6 col-md-3">
 						<h3 class="text-center">Conectando com MYSQL</h3>
-						<p>Vamos conectar nossa aplicação web com o banco de dados MySQL.</p>
+						<p>Vamos conectar nossa aplicação web com o banco de dados
+							MySQL.</p>
 						<p class="text-center">
 							<a href="list.jsp" class="btn btn-action">Leia Mais</a>
 						</p>
 						<p class="text-center">
-							<a href="FornecedorServlet?pagina=list" class="btn btn-action">Listar Dados</a>
+							<a href="FornecedorServlet?pagina=list" class="btn btn-action">Listar
+								Dados</a>
 						</p>
 					</div>
 					<div class="col-sm-6 col-md-3">
@@ -117,8 +119,9 @@
 							<p>Ainda não está pronto mas podera baixar no GitHub.</p>
 						</div>
 						<div class="col-lg-4 text-right">
-							<a href="" class="btn btn-primary btn-lg">Download Código
-								GitHub</a>
+							<a href="https://github.com/hansmboron/java_web_1_IFPR"
+								target="_blank" class="btn btn-primary btn-lg">Download
+								Código GitHub</a>
 						</div>
 					</div>
 				</div>
@@ -131,9 +134,7 @@
 	</main>
 
 	<footer id="footer">
-		<div class="container">
-		by Hans M. Boron
-		</div>
+		<div class="container">by Hans M. Boron</div>
 	</footer>
 
 	<footer id="underfooter"> </footer>
